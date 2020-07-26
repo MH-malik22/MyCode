@@ -6,5 +6,7 @@ public class Testgitcode {
 	System.out.println("my git code commit");
 
 	}
-
+public void test() {
+	System.err.println("3rd commit  learning git pull and commit");
+}
 }
